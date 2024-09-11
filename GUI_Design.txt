@@ -1,0 +1,7 @@
+The main focus of Term 3 was HTML and the development of a webpage. However, this was supported by assessment items from the previous term; notably, the PySimpleGui tasks.
+For example, note the specific feedback, given on the previous assessments, shown below:
+
+ - The white text on black can be a bit hard to read clearly at small fonts, so be careful with that
+ - You could also bump the font size up a bit in general, as there’s a lot of screen real estate you’re not using
+
+These were taken into consideration during the development of the HTML webpage, and allow for greater knowledge to be attained about GUI layout and choices.
