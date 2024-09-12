@@ -1,4 +1,4 @@
 As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing the knowledge necessary. 
-The provided html documents were the pieces of classword submitted in Weeks 1 and 2 of the semester. As shown, the documents show a clear progression in skill; the first has no formatting or interesting layout, while the second uses divs and images. 
+The provided html documents were the pieces of classword submitted in Weeks 1 and 2 of the semester. As shown, the documents show a clear progression in skill; the first has no formatting or interesting layout, while the second uses divs and images. The final assessment submission also uses javascript and more css properties to create an engaging and interesting website
 
 This knowledge of HTML is also beneficial for the next topic of study: web scraping. Beautifulsoup or other web scraping softwares require HTML component names/ids/tags to locate the required information; to implement this required knowledge of what those elements are. Thus, learning HTML was a necesity to continue study in web scraping. 
