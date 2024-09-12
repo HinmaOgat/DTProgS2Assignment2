@@ -1,0 +1,1 @@
+As the focus of this semester has been on HTML, 
