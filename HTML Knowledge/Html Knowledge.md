@@ -1,4 +1,5 @@
 As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing the knowledge necessary. 
+
 The provided html documents were the pieces of classword submitted in Weeks 1 and 2 of the semester. The documents have a clear progression in skill; the first has no formatting or interesting layout, while the second includes more components, such as divs and images. The final assessment submission also uses javascript and more css properties to create an engaging and interesting website. 
 This progression in skill was important, as the final assessment submitted and the second provided document have multiple similarities; both have fillers on the side of the content, both have a one-column layout in the middle. This shows the skills gained from practising HTML paid off, as they allowed for the development of the assessment. Additionally, even during the development of the assessment piece, more features (such as fixed positions, more advanced javascript) were learnt. 
 
