@@ -24,5 +24,4 @@ Disallow: /*/contact-us?isChatCallAvailable=false
 Disallow: /*/play/user/*
 Sitemap: https://www.xbox.com/sitemap.xml
 
-
 Per the file, scraping information off of the page screenshotted as ‘xboxResultsPage’ is prohibited. But scraping information off of the page screenshotted as ‘xboxBrowsePage’ is not. Thus, the actions performed in ‘SeleniumTest.py’ are allowed to be taken. 
