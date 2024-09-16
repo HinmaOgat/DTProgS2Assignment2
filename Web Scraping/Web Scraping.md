@@ -11,6 +11,7 @@ However, web scraping is also dangerous. If a web scraper violates the Computer 
 
 One method of doing so is following a website's “robots.txt” file. This determines what data of the website can be legally handled. This file is important, as it details what actions taken by a web scraper are prohibited on the site. 
 For example, the “robots.txt” file for the XBOX store is as follows:
+
 ---
 User-agent: *
 Disallow: /error
@@ -24,4 +25,5 @@ Disallow: /*/contact-us?isChatCallAvailable=false
 Disallow: /*/play/user/*
 Sitemap: https://www.xbox.com/sitemap.xml
 ---
+
 Per the file, scraping information off of the page screenshotted as ‘xboxResultsPage’ is prohibited. But scraping information off of the page screenshotted as ‘xboxBrowsePage’ is not. Thus, the actions performed in ‘SeleniumTest.py’ are allowed to be taken. 
