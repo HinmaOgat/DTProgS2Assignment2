@@ -5,6 +5,14 @@ CSS was learnt in Week 2. CSS, or Cascading Style Sheets, is used to add styles 
 
 The documents have a clear progression in skill, as the first has a layout similar to that of a Google Docs or Word document; it consists of simply headers and paragraph text. In contrast, the second includes more components: it uses divs, to structure the webpage and make styling those different sections easy by applying a class to them. It also uses the style tag to hold the necessary CSS, making the website more appealing and easy to style (as all classes or groups of elements can be styled at once instead of individually). 
 
-The final assessment submission includes more elements, such as fixed positions (a property of CSS that allows elements to remain on a webpage):
+The final assessment submission includes more elements, such as fixed positions (a property of CSS that allows elements to remain on a screen while being scrolled):
 
-![HELLO!](fixedPositions.gif)
+![Demonstration of how elements remain on a screen while being scrolled](fixedPositions.gif),
+
+Javascript (a programming language used to add interactivity to a webpage), shown by the hangman game coded in javascript:
+
+![Demonstration of the hangman game](hangmanDemo.gif),
+
+And CSS property manipulation, using a combination of javascript (to access individual elements) and css (to apply new properties to the elements):
+
+![Demonstration of the text and colour changing properties of the final assessment piece](textCustomize.gif)
