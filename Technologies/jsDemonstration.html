@@ -6,20 +6,20 @@
 <script>
 let age = null;
 
-class jobPerson{ //The base person, with a name, age and a job
+class jobPerson{ //A person, with a name, age and a job. They will be able to tell you their name, age and job through introduceSelf()
     constructor(name,age,job){
         this.name = name;
         this.age = age;
         this.job = job;
     }
     introduceSelf(){
-        console.log(`Hi! My name is ${this.name},`);
-        console.log(`I am ${this.age} years old,`);
+        console.log(`Hi! My name is ${this.name}`);
+        console.log(`I am ${this.age} years old`);
         console.log(`I work as a ${this.job}`);
     }
 }
 
-class hobbyPerson extends jobPerson{ // A person who still has a name, age and job, but also has a hobby. He will be able to tell you his job through introduceJob(), but will also be able to tell you his hobby!
+class hobbyPerson extends jobPerson{ // A person who still has a name, age and job, but also has a hobby. They will be able to tell you their name, age and job through introduceSelf(), but will also be able to tell you their hobby!
     constructor(name,age,job,hobby){
         super(name,age,job);
         this.hobby = hobby;
@@ -31,14 +31,14 @@ class hobbyPerson extends jobPerson{ // A person who still has a name, age and j
     
 }
 
-class passionPerson extends hobbyPerson{ // A person who has a name, age, job and hobby, but also has a passion. He will be able to tell you his job and hobby through introduceJob() and introduceHobby(), but will also be able to tell you his passion!
+class passionPerson extends hobbyPerson{ // A person who has a name, age, job and hobby, but also has a passion. They will be able to tell you their name, age, job and hobby through introduceSelf, but will also be able to tell you their passion!
     constructor(name,age,job,hobby,passion){
         super(name,age,job,hobby);
         this.passion = passion;
     }
     introduceSelf(){
         super.introduceSelf();
-        console.log(`I LOVE doing ${this.passion}`)
+        console.log(`I LOVE ${this.passion}`)
     }
 }
 
@@ -47,9 +47,28 @@ let allan = new hobbyPerson('Allan',37,'Stock broker','Swimming');
 let poe = new passionPerson('Poe',40,'Plumber','Video gaming','Reading Sci-fi novels')
 
 edgar.introduceSelf();
-
+console.log('--------------')
 allan.introduceSelf();
-
+console.log('--------------')
 poe.introduceSelf();
+console.log('--------------')
+
+//Output:
+//Hi! My name is Edgar
+//I am 30 years old
+//I work as a CEO
+//--------------
+//Hi! My name is Allan
+//I am 37 years old
+//I work as a Stock broker
+//I do Swimming in my free time
+//--------------
+//Hi! My name is Poe
+//I am 40 years old
+//I work as a Plumber
+//I do Video gaming in my free time 
+//I LOVE doing Reading Sci-fi novels
+//--------------
+
 </script>
 </html>

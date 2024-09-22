@@ -5,7 +5,8 @@ For example, note the specific feedback, given on the PySimpleGui assessments, s
 - "The white text on black can be a bit hard to read clearly at small fonts, so be careful with that"
 - "You could also bump the font size up a bit in general, as there’s a lot of screen real estate you’re not using"
 
-These pieces of feedback were about readability, instead of layout or features; something I was not good at doing well. Thus, they were taken into consideration during the development of the HTML webpage; the grey background on black text and the size/colour customizability options were added in response to those comments (see attached GIF). The final assessment piece feedback mentioned the webpage was “easy to navigate and read through”; this proves the implemented features were effective, and the feedback was used well. 
+These pieces of feedback were about readability, instead of layout or features; something I was not good at doing well. Thus, they were taken into consideration during the development of the HTML webpage; the grey background on black text and the size/colour customizability options were added in response to those comments:
+![Demonstration of the text and colour changing properties of the final assessment piece](Resources/textCustomize.gif). The final assessment piece feedback mentioned the webpage was “easy to navigate and read through”; this proves the implemented features were effective, and the feedback was used well. 
 Thus, this criticism allowed for the improvement of a personal weakness, ensuring it will not affect future assessments. 
 
 Another area of weakness that was improved on this term was colour scheme selection. Feedback on previously designed web pages, experimental layouts for the assessment piece and usability tests for previous assessment all included disdain for the colour choice selected: 
