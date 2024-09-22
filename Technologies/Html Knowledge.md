@@ -7,4 +7,4 @@ The documents have a clear progression in skill, as the first has a layout simil
 
 The final assessment submission includes more elements, such as fixed positions (a property of CSS that allows elements to remain on a webpage):
 
-![alt text](fixedPositions.gif)
+![HELLO!](fixedPositions.gif)
