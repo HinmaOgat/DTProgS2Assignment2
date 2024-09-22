@@ -16,3 +16,22 @@ Javascript (a programming language used to add interactivity to a webpage), show
 And CSS property manipulation, using a combination of javascript (to access individual elements) and css (to apply new properties to the elements):
 
 ![Demonstration of the text and colour changing properties of the final assessment piece](textCustomize.gif)
+
+This shows how, during the development of the assessment piece, more features were learnt and implemented to develop a more engaging and interesting website. 
+
+Any application involving user interactivity will need a front-end, as mentioned above. Using HTML/CSS for this front-end purpose has numerous advantages: 
+ - HTML is lightweight and fast to load. 
+ - Storage of big files is allowed because of the application cache feature.
+ - Do not get to purchase any extra software because it’s by default in every window.
+ - It integrates easily with other languages such as JavaScript, CSS etc. This means any back-end language used in future can be implemented with HTML. 
+ - HTML allows the utilisation of templates, reducing the time required to style the webpage.
+ - It is fast to download as the text is compressible.
+ - HTML can be supported to each and every browser, if not supported by all the browsers. This increases user convenience,  - as the webpage will work regardless of the browser they use
+ - HTML is built on almost every website, if not all websites.
+ - HTML is increasingly used for data storage like XML syntax.
+ - (GeeksforGeeks, 2020)
+
+Thus, if HTML is decided to be used for a front-end purpose, the skills gained will be beneficial. 
+
+Additional study into Javascript was done after the basics were learnt. More advanced skills were learnt, in particular the basics of Object Oriented Programming; these will be beneficial for future projects requiring higher-level programming, such as complex apps or games. The knowledge gained from learning OOP was implemented into the program shown in file ‘demo.html’, showing the use of classes and inheritance. 
+
