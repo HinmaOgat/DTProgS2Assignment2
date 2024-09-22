@@ -6,9 +6,9 @@ Artificial intelligence is another tool used in User Interface Development, and 
 
 Additionally, accessibility issues need to be addressed when developing user interfaces. Certain disabilities can prevent a webpage from being usable; a web page should be simple enough to minimise this inconvenience as much as possible. Research was done into certain disabilities, and how a UI can assist a user with that disability. For example, text and background should be contrasting to ensure colour-blindness will not interfere with a disabled user’s understanding of content (also a web design theory researched). Additionally, people with varying levels of eyesight should be able to use the site. The final assessment included text and size customizability options specifically for those purposes: 
 
-![Demonstration of the text and colour changing properties of the final assessment piece](textCustomize.gif)
+![Demonstration of the text and colour changing properties of the final assessment piece](Resources/textCustomize.gif)
 
 Web Pages also need to be usable on different devices; certain users may only have a phone to access an user interface, in which case the site should adapt to suit their needs. This ensures the UI is accessible to a wide range of users, regardless of the device they use to access it. All user interfaces in future should have the ability to adapt to different screen sizes; in HTML, this can be done by setting the width properties of elements to percentages instead of pixels. This was implemented in the assessment submission with moderate success:
 
-![Demonstration of the UI changing when screen size is reduced](adaptability.gif)
+![Demonstration of the UI changing when screen size is reduced](Resources/adaptability.gif)
 
