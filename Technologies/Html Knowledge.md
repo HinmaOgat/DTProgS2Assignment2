@@ -7,7 +7,7 @@ The documents have a clear progression in skill, as the first has a layout simil
 
 The final assessment submission includes more elements, such as fixed positions (a property of CSS that allows elements to remain on a screen while being scrolled):
 
-![Demonstration of how elements remain on a screen while being scrolled](Resources/fixedPositions.gif),
+![Demonstration of how elements remain on a screen while being scrolled](Resources/fixedPositions.gif =100x20),
 
 Javascript (a programming language used to add interactivity to a webpage), shown by the hangman game coded in javascript:
 
