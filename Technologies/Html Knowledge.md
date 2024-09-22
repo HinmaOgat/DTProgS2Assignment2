@@ -1,3 +1,5 @@
+Technologies
+---
 As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing knowledge of the technologies. 
 
 Week 1 was dedicated to learning HTML, a markup language used to create web pages. This week was dedicated to learning and using the various tags and properties in HTML.  This knowledge was used to create ‘Resources/week1.html’ in Week 1. 
