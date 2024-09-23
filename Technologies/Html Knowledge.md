@@ -2,7 +2,7 @@ Technologies
 ---
 As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing knowledge of the languages needed to do so.
 
-Week 1 was dedicated to learning HTML, a markup language used to create web pages. ‘Week1.html’ was developed using the various tags and properties in HTML that were learnt this week.
+Week 1 was dedicated to learning HTML, a markup language used to create web pages. [week1.html](week1.html) was developed using the various tags and properties in HTML that were learnt this week.
 CSS was learnt in Week 2. CSS, or Cascading Style Sheets, is used to add styles and colour to a HTML webpage. CSS makes a webpage more appealing, resulting in a better user experience. It is important for webpages as it allows for more complex stylistic and structural choices to be implemented into a webpage. For example, a webpage without CSS is limited to the browser’s default fonts; this reduces the customisation possible.  
 CSS was implemented into [week1.html](week1.html) to develop [week2.html](week2.html). [week2.html](week2.html) includes more components: it uses divs, to structure the webpage and make styling those different sections easy by applying a class to them. It also uses the style tag to hold the necessary CSS:
 
