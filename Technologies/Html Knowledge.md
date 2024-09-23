@@ -1,9 +1,9 @@
 Technologies
 ---
-As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing knowledge of the languages needed to do so. 
-Week 1 was dedicated to learning HTML, a markup language used to create web pages. [week1.html](week.html) was developed using the various tags and properties in HTML that were learnt this week. 
-CSS was learnt in Week 2. CSS, or Cascading Style Sheets, is used to add styles and colour to a HTML webpage. CSS makes a webpage more appealing, resulting in a better user experience. It is important for webpages as it allows for more complex stylistic and structural choices to be implemented into a webpage. For example, a webpage without CSS is limited to the browser’s default fonts; this reduces the customisation possible. 
-CSS was implemented into [week1.html](week1.html) to develop [week2.html](week2.html). [week2.html](week2.html) includes more components: it uses divs, to structure the webpage and make styling those different sections easy by applying a class to them. It also uses the style tag to hold the necessary CSS, making the website easy to apply properties onto; this is because all classes or (groups of elements) can be styled at once, instead of individually, by using their CSS rules’ properties:
+As the focus of the latest assignment was on developing a HTML webpage, the weeks leading up to it were focussed on developing knowledge of the languages needed to do so.  
+Week 1 was dedicated to learning HTML, a markup language used to create web pages. [week1.html](week.html) was developed using the various tags and properties in HTML that were learnt this week.  
+CSS was learnt in Week 2. CSS, or Cascading Style Sheets, is used to add styles and colour to a HTML webpage. CSS makes a webpage more appealing, resulting in a better user experience. It is important for webpages as it allows for more complex stylistic and structural choices to be implemented into a webpage. For example, a webpage without CSS is limited to the browser’s default fonts; this reduces the customisation possible.  
+CSS was implemented into [week1.html](week1.html) to develop [week2.html](week2.html). [week2.html](week2.html) includes more components: it uses divs, to structure the webpage and make styling those different sections easy by applying a class to them. It also uses the style tag to hold the necessary CSS:
 
 ```
 body{
@@ -38,6 +38,8 @@ body{
     user-select:none;
 }
 ```
+This makes the website easy to apply properties onto; this is because all classes or (groups of elements) can be styled at once, instead of individually, by using their CSS rules’ properties.
+
 This progression in skill was important, as the final assessment submitted and the second provided document have multiple similarities; both have fillers on the side of the content, both have a one-column layout in the middle. This shows the skills gained from practising HTML assisted for the development of the assessment.
 
 The final HTML task has more complexity, including more unique CSS properties such as the fixed property; this allows elements to remain on a user’s screen as they scroll:
