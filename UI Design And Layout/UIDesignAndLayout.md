@@ -19,7 +19,8 @@ Alternative colour schemes are shown below:
 <img src="Resources/colourChoice1.PNG" width="500" height="300"><img src="Resources/colourchoice2.PNG" width="500" height="300">
 
 ___
-Additionally, research was done into different website layouts. For example, the one-column layout (used in week2.html and the final HTML task submission), is easy to follow, and makes it so the need to scan is nothing more than identifying key points of interest into that single column. (ColibriWP, 2021). This means it is good for simple websites that do not require many different types of information to be displayed at once.    
+Additionally, research was done into different website layouts. For example, the one-column layout, used in [week2.html](week2.html) and the final HTML task submission (screenshot shown below). It is easy to follow, and makes it so the need to scan is nothing more than identifying key points of interest into that single column. (ColibriWP, 2021). This means it is good for simple websites that do not require many different types of information to be displayed at once.
+<img src="Resources/fixedPositions.gif" width="500" height="300" alt="Demonstration of how elements remain on a screen while being scrolled"> 
 ___
 More focus should have been placed on formatting aspects of each individual element in the website.
 
