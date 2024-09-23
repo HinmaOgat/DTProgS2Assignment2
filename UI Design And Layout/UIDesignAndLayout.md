@@ -18,6 +18,7 @@ Another area of weakness that was improved on this term was colour scheme select
 
 Thus, throughout the HTML assessment, various colour schemes were experimented with. The process of selecting the correct colour scheme involved research into colour theory and design. For example, any web page should have a primary colour (60% of webpage, such as background), a secondary colour (30% of webpage, as element colour) and an accent colour (10% of webpage). This is why the colour scheme was chosen to be white, green and purple. Alternative colour schemes are shown below:
 <img src="Resources/colourChoice1.PNG" width="500" height="300"><img src="Resources/colourChoice2.PNG" width="500" height="300">
+
 ___
 More focus should have been placed on formatting aspects of each individual element in the website. 
 
