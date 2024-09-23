@@ -7,15 +7,15 @@ CSS was learnt in Week 2. CSS, or Cascading Style Sheets, is used to add styles 
 
 The final assessment submission includes more elements, such as fixed positions (a property of CSS that allows elements to remain on a screen while being scrolled):
 
-![Demonstration of how elements remain on a screen while being scrolled](Resources/fixedPositions.gif),
+<img src="Resources/fixedPositions.gif" width="500" height="300" alt="Demonstration of how elements remain on a screen while being scrolled">
 
 Javascript (a programming language used to add interactivity to a webpage), shown by the hangman game coded in javascript:
 
-![Demonstration of the hangman game](Resources/hangmanDemo.gif),
+<img src="Resources/hangmanDemo.gif" width="500" height="300" alt="Demonstration of the hangman game">
 
 And CSS property manipulation, using a combination of javascript (to access individual elements) and css (to apply new properties to the elements):
 
-![Demonstration of the text and colour changing properties of the final assessment piece](Resources/textCustomize.gif)
+<img src="Resources/textCustomize.gif" width="500" height="300" alt="Demonstration of the text and colour changing properties of the final assessment piece">
 
 This shows how, during the development of the assessment piece, more features were learnt and implemented to develop a more engaging and interesting website. 
 ___
