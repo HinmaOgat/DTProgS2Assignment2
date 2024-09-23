@@ -15,4 +15,4 @@ Web Pages also need to be usable on different devices, as users may only have a 
 
 As shown, most elements within the page are capable of maintaining their percentage widths when the screen width changes, with the exception of elements such as the slider and the menu items.
 
-Understanding the ethics of UI development will ensure that, when developing a UI in the future with the skills gained from understanding [design](/UI%20Design%20And%20Layout/UIDesignAndLayout.md) and [technology](/DTProgS2Assignment2/Technologies/technologies.md) theories, the interfaces will be as user-friendly and ethical as possible. 
+Understanding the ethics of UI development will ensure that, when developing a UI in the future with the skills gained from understanding [design](/UI%20Design%20And%20Layout/UIDesignAndLayout.md) and [technology](/Technologies/technologies.md) theories, the interfaces will be as user-friendly and ethical as possible. 
