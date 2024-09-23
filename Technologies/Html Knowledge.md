@@ -33,4 +33,4 @@ Any application involving user interactivity will need a front-end, as mentioned
 
 Thus, if HTML is decided to be used for a front-end purpose, the skills gained will be beneficial. 
 ___
-Additional study into Javascript was done after the basics were learnt. More advanced skills were learnt, in particular the basics of Object Oriented Programming; these will be beneficial for future projects requiring higher-level programming, such as complex apps or games. The knowledge gained from learning OOP was implemented into the program shown in the file [a relative link](jsDemonstration.html), showing the use of classes and inheritance. 
+Additional study into Javascript was done after the basics were learnt. More advanced skills were learnt, in particular the basics of Object Oriented Programming; these will be beneficial for future projects requiring higher-level programming, such as complex apps or games. The knowledge gained from learning OOP was implemented into the program shown in the file [jsDemonstration.html](jsDemonstration.html), showing the use of classes and inheritance. 
