@@ -14,3 +14,4 @@ Web Pages also need to be usable on different devices; certain users may only ha
 
 ![Demonstration of the UI changing when screen size is reduced](Resources/adaptability.gif)
 
+Understanding the ethics of UI development will ensure that, when developing a UI in the future with the skills gained from understanding [design](/UI%20Design%20And%20Layout/UIDesignAndLayout.md) and [technology](/Technologies/Html%20Knowledge.md) theories, the interfaces will be as user-friendly and ethical as possible. 
