@@ -19,6 +19,9 @@ Alternative colour schemes are shown below:
 <img src="Resources/colourChoice1.PNG" width="500" height="300"><img src="Resources/colourchoice2.PNG" width="500" height="300">
 
 ___
+Additionally, research was done into different website layouts. For example, the one-column layout (used in week2.html and the final HTML task submission), is easy to follow, and makes it so the need to scan is nothing more than identifying key points of interest into that single column. (ColibriWP, 2021). This means it is good for simple websites that do not require many different types of information to be displayed at once. 
+
+___
 More focus should have been placed on formatting aspects of each individual element in the website. 
 
 - “The table of contents on the left could be tidied a little, possibly by making the links the same style as the hyperlinks at the top”
